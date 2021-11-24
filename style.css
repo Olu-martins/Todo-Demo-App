@@ -1,0 +1,19 @@
+
+div{
+    width: 60%;
+    height: 70vh;
+    margin: 0 auto;
+    align-items: center;
+    background: rgb(236, 251, 255);
+}
+.newLi{
+    border: 1px solid rgb(30,184,191);
+    background: white;
+    list-style-type: none;
+    width: 40%;
+    height: 3vh;
+    margin-top: 0.3rem;
+    margin-left: -2.3rem;
+    border-radius: 0.2rem;
+    padding: 0.1rem 0;
+}
